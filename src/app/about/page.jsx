@@ -4,7 +4,7 @@ import styles from "./about.module.css";
 export const metadata = {
     title: "About Page",
     description: "About description",
-  };
+};
 
 const AboutPage = () => {
     return (
@@ -22,15 +22,15 @@ const AboutPage = () => {
                 <div className={styles.boxes}>
                     <div className={styles.box}>
                         <h1>10 K+</h1>
-                        <p>Years of experience</p>
+                        <p>Year of experience</p>
                     </div>
                     <div className={styles.box}>
                         <h1>10 K+</h1>
-                        <p>Years of experience</p>
+                        <p>Year of experience</p>
                     </div>
                     <div className={styles.box}>
                         <h1>10 K+</h1>
-                        <p>Years of experience</p>
+                        <p>Year of experience</p>
                     </div>
                 </div>
             </div>
